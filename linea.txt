@@ -1,0 +1,1 @@
+iverilog -o datapath.vvp FinalArqui_SystemCode.v dpathtest.v ALU.v ConditionTester.v cunit.v FlagRegister.v mux2x1.v mux2x1_5bit.v mux2x1_32bit.v mux4x1.v mux4x1_32bit.v ram256x8.v reg32.v shifter.v theRegisterFile.v reg8.v Ireg.v MARreg.v
